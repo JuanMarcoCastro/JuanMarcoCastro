@@ -1,13 +1,18 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 ## Hi there! I'm **Juan Marco Castro Trinidad** 👋
 
 I'm a passionate **Data Scientist** with a strong background in data analysis, machine learning, and artificial intelligence. I thrive on solving challenging problems using data-driven solutions.
 
 ### 🌟 **About Me**
 - 📈 Data Science and Mathematics Engineer
-- 📊 Passionate about extracting insights from data
-- 🔄 Experienced in Python, R, SQL, and Machine Learning frameworks
-- 🌟 Interested in AI, NLP, and Deep Learning
-- 🚀 Constantly learning and applying new technologies
+- 📊 Experienced in Python, R, SQL, and Machine Learning frameworks
+- 🚀 Interested in AI, Math, Economy, ML, Back-Front, and Deep Learning
 
 ### 🔍 **What You'll Find Here**
 - 📊 Data Analysis Projects
@@ -30,18 +35,10 @@ I'm a passionate **Data Scientist** with a strong background in data analysis, m
 - [**Company Bankruptcy**](https://github.com/JuanMarcoCastro/Bankruptcy-Prediction) - Company Bankruptcy Prediction in python using machine learnging models and more.
 
 ### 📚 **Education**
-- B.S. in Data Science and Mathematics Engineering - [Your University Name]
-
-### 🌟 **Certifications**
-- [AWS Certified Data Analytics](https://www.credly.com/users/yourusername)
-- [TensorFlow Developer Certification](https://www.tensorflow.org/certificate)
-- [AMIB Figure 3 - Investment Advisor](https://www.amib.org.mx/)
+- B.S. in Data Science and Mathematics Engineering - Monterrey Institute of Technology. 
 
 ### 📢 **Let's Connect**
 - LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 - GitHub: [github.com/yourusername](https://github.com/yourusername)
 - Email: yourname@email.com
-
----
-"Data is the new oil, and I love refining it into valuable insights!" 💡
 
