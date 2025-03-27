@@ -7,13 +7,6 @@ I'm a passionate **Data Scientist** with a strong background in data analysis, m
 - 📊 Experienced in Python, R, SQL, and Machine Learning frameworks
 - 🚀 Interested in AI, Math, Economy, ML, Back-Front, and Deep Learning
 
-### 🔍 **What You'll Find Here**
-- 📊 Data Analysis Projects
-- 🤖 Machine Learning and Deep Learning Implementations
-- 📑 Exploratory Data Analysis (EDA)
-- 🔄 Optimization and Simulation Projects
-- 🏢 Business Intelligence Dashboards
-
 ### 🛠 **Tech Stack**
 - **Languages:** Python, R, SQL, MATLAB
 - **Databases:** PostgreSQL, MySQL
