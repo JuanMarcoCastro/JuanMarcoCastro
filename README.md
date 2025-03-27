@@ -1,4 +1,4 @@
-## Hi there! I'm [Your Name] 👋
+## Hi there! I'm **Juan Marco Castro Trinidad** 👋
 
 I'm a passionate **Data Scientist** with a strong background in data analysis, machine learning, and artificial intelligence. I thrive on solving challenging problems using data-driven solutions.
 
@@ -24,10 +24,10 @@ I'm a passionate **Data Scientist** with a strong background in data analysis, m
 - **Cloud & DevOps:** AWS, Docker, Git
 
 ### 📊 **Projects**
-- [**University Ranking Analysis**](https://github.com/yourusername/university-ranking-analysis) - Data analysis using Tableau and Python to compare global university rankings.
-- [**CO2 Emissions Optimization**](https://github.com/yourusername/co2-optimization) - Topological Data Analysis for fuel consumption optimization.
-- [**Image Classification**](https://github.com/yourusername/image-classifier) - CNN-based image classifier using TensorFlow.
-- [**Monte Carlo Simulation**](https://github.com/yourusername/monte-carlo-simulation) - Simulation for probability distribution modeling.
+- [**SQL Netflix**](https://github.com/JuanMarcoCastro/SQL-Netflix) - This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL.
+- [**Firmas Digitales**](https://github.com/JuanMarcoCastro/FirmasEquipo4) - Topological Data Analysis for fuel consumption optimization.
+- [**CO2 Analysis**](https://github.com/yourusername/image-classifier) - CNN-based image classifier using TensorFlow.
+- [**Company Bankruptcy**](https://github.com/JuanMarcoCastro/Bankruptcy-Prediction) - Company Bankruptcy Prediction in python using machine learnging models and more.
 
 ### 📚 **Education**
 - B.S. in Data Science and Mathematics Engineering - [Your University Name]
